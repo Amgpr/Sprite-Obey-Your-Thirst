@@ -1,1 +1,1 @@
-# Sprite-Obey-Your-Thirst
+# Sprite
